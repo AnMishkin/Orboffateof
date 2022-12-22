@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Magic ball of predictions</string>
+    <string name="start">Ask a question - shake your phone!</string>
+    <string name="policy">Privacy policy</string>
+    <string name="back">Back</string>
+    <string name="info">How to use the program?</string>
+    <string name="admob_baner">ca-app-pub-3971991853344828/6265590446</string>
+    <string name="info_text">To use the program, just ask your question and just shake your phone - the magic ball of predictions will give you the answer! if you shake again, you will get a new answer to a new question! P.S. This program is not a direct predictor of what happened or will happen, it is created for entertainment purposes!</string>
+
+
+
+<!-- предсказания -->
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="not_sure">NOT SURE</string>
+    <string name="maybe">Maybe</string>
+    <string name="after_hour">Let me think, ask me in an hour</string>
+    <string name="tomorrow">Better tomorrow ask me about it</string>
+    <string name="dont_know">I don"t know</string>
+    <string name="google">ask google</string>
+    <string name="leave">Leave me alone!</string>
+    <string name="know">I know the answer but I won"t tell!</string>
+    <string name="again">shake me again!</string>
+</resources>

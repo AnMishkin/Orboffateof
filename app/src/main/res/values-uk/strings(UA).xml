@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Чарівна куля передбачень</string>
+    <string name="start">Поставте питання - струсіть телефон!</string>
+    <string name="policy">Політика конфіденційності</string>
+    <string name="back">Назад</string>
+    <string name="info">Як користуватись програмою?</string>
+    <string name="admob_baner">ca-app-pub-3971991853344828/6265590446</string>
+    <string name="info_text">Для використання програми достатньо поставити Ваше запитання і просто струсити телефон - магічна кулька передбачень дасть вам відповідь! якщо струсити знову, ви отримаєте нову відповідь на нове запитання! P.S. Дана програма не є прямим провісником того, що сталося або станеться, вона створена в розважальних цілях!</string>
+
+
+    <!-- предсказания -->
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="not_sure">не впевнений</string>
+    <string name="maybe">може бути</string>
+    <string name="after_hour">Дай подумати, спитай за годину</string>
+    <string name="tomorrow">Краще завтра спитай мене про це</string>
+    <string name="dont_know">Я не знаю!</string>
+    <string name="google">спитай у Google!</string>
+    <string name="leave">Відчепися від мене!</string>
+    <string name="know">знаю відповідь-но не скажу!</string>
+    <string name="again">Потряси мене ще раз!</string>
+</resources>

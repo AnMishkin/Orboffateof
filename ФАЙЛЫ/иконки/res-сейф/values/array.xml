@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orb">
+        <item>@string/after_hour</item>
+        <item>@string/yes</item>
+        <item>@string/no</item>
+        <item>@string/maybe</item>
+        <item>@string/tomorrow</item>
+        <item>@string/not_sure</item>
+        <item>@string/dont_know</item>
+        <item>@string/google</item>
+        <item>@string/leave</item>
+        <item>@string/know</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Волшебный шар предсказаний</string>
+    <string name="start">Задайте вопрос - встряхните телефон!</string>
+    <string name="policy">Политика конфиденциальности</string>
+    <string name="back">Назад</string>
+    <string name="info">Как пользоватся программой?</string>
+    <string name="admob_baner">ca-app-pub-3971991853344828/6265590446</string>
+    <string name="info_text">Для использования программы достаточно задать Ваш вопрос и просто встряхнуть телефон - магический шарик предсказаний даст вам ответ! если встряхнуть снова,вы получите новый ответ на новый вопрос! P.S. Данная программа не является прямым предсказателем того что произошло или произойдет,она создана в развлекательных целях!</string>
+
+
+    <!-- предсказания -->
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="not_sure">неуверен</string>
+    <string name="maybe">может быть</string>
+    <string name="after_hour">Дай подумать, спроси через час</string>
+    <string name="tomorrow">Лучше завтра спроси меня об этом</string>
+    <string name="dont_know">Я не знаю</string>
+    <string name="google">спроси у Google</string>
+    <string name="leave">Отстань от меня!</string>
+    <string name="know">знаю ответ-но не скажу!</string>
+    <string name="again">Потряси меня еще раз!</string>
+</resources>
